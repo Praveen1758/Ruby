@@ -31,8 +31,8 @@ ruby assign_1.rb
 
 ## 🧠 Topics Covered
 - [x] Variables, Strings, and Numbers
-- [ ] Arrays, Hashes, and Enumerables
-- [ ] Methods and Blocks
+- [x] Arrays, Hashes, and Enumerables
+- [x] Methods and Blocks
 - [ ] Classes, Modules, and Inheritance
 - [ ] File I/O and Error Handling
 
